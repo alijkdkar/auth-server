@@ -1,5 +1,5 @@
 # auth-server
 
 
-jwt server auth using of 
+Token Auth Server  using of 
 jwt / GORM / GIN / postgress
